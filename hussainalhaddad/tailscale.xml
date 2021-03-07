@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <Date>2021-03-07</Date>
+  <Beta>False</Beta>
+  <Category></Category>
+  <Name>TailScale Client</Name>
+  <Project>https://tailscale.com/</Project>
+  <Overview>
+    TailScale Client
+  </Overview>
+  <Description>
+    Zero config VPN. Installs on any device in minutes, manages firewall rules for you, and works from anywhere.
+  </Description>
+  <Registry>https://hub.docker.com/repository/docker/hussainalhaddad/tailscale</Registry>
+  <GitHub>https://github.com/hussainalhaddad/docker-templates</GitHub>
+  <Repository>hussainalhaddad/tailscale</Repository>
+  <Support></Support>
+  <BindTime>true</BindTime>
+  <Privileged>true</Privileged>
+  <Networking>
+    <Mode>host</Mode>
+    <Publish/>
+  </Networking>
+  <Environment/>
+  <Icon>https://d2631fvi2jdnb6.cloudfront.net/docker/limetech/plex.png</Icon>
+</Containers>
