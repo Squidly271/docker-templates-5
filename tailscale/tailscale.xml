@@ -13,7 +13,7 @@
   <Category>Network:Management Network:VPN Status:Stable</Category>
   <WebUI>https://login.tailscale.com/admin</WebUI>
   <TemplateURL/>
-  <Icon>https://github.com/hussainalhaddad/docker-templates/raw/master/hussainalhaddad/icons/tailscale.jpg</Icon>
+  <Icon>https://github.com/hussainalhaddad/docker-templates/raw/master/tailscale/tailscale.jpg</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
